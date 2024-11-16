@@ -99,3 +99,15 @@ main {
 	box-sizing: border-box;
 }
 
+aside {
+	flex: 1;
+	background-color: #ffd1d1;
+	border: 2px solid red;
+	padding: 1rem;
+	box-sizing: border-box;
+}
+
+footer {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 16px;
+}
