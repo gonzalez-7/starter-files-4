@@ -82,3 +82,11 @@ p {
 	flex-wrap: nowrap;
 	width: 100%;
 }
+
+nav {
+	flex: 1;
+	background-color: lightgreen;
+	border: 2px solid green;
+	padding: 1rem;
+	box-sizing: border-box;
+}
