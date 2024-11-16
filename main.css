@@ -90,3 +90,12 @@ nav {
 	padding: 1rem;
 	box-sizing: border-box;
 }
+
+main {
+	flex: 2;
+	background-color: #ffe6f0;
+	border: 2px solid pink;
+	padding: 1rem;
+	box-sizing: border-box;
+}
+
